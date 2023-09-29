@@ -1,0 +1,52 @@
+nav{
+    background-color: black;
+}
+body{
+    height: 100vh;
+}
+a{
+    color: white;
+}
+#ne{
+    color: white;
+}
+span{
+    background-color: #fff;
+}
+@media screen and (min-width: 992px) {
+#navbarNav{
+    display: flex;
+    justify-content: end;
+}
+    
+}
+
+.con{
+    width: 50%;
+    background-color: black;
+    position: relative;
+}
+#carouselExampleRide{
+    position: relative;
+    top: 40px;
+}
+.sec-last{
+    background-color: black;
+    
+}
+.foot-para{
+    font-weight: 900;
+    font-size: 18px;
+    color: #be9509;
+    
+}
+.box a{
+    font-size: 18px;
+    color: #be9509;
+    text-decoration: none;
+
+}
+.copyright{
+    background-color: black;
+    color: #fff;
+}
